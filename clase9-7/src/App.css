@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(153, 194, 162); 
+    color: #0B3954; 
+  }
+  
+  .container {
+    margin-top: 50px;
+  }
+  
+  .navbar {
+    background-color: #0B3954; 
+  }
+  
+  .navbar-brand,
+  .nav-link {
+    color: #fff !important;
+    font-size: 1.2rem; 
+  }
+  
+  .btn-primary {
+    background-color: #7F95D1;
+    border-color: #7F95D1; 
+  }
+  
+  .btn-primary:hover {
+    background-color: #0B3954; 
+    border-color: #0B3954;
+  }
+  
+  .btn-danger {
+    background-color: #04471C; 
+    border-color: #04471C; 
+  }
+  
+  .btn-danger:hover {
+    background-color: #0B3954;
+    border-color: #0B3954;
+  }
+  
+  .table-hover tbody tr:hover {
+    background-color: #fff; 
+    color: #000; 
+  }
+  
